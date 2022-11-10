@@ -10,13 +10,29 @@ namespace BankAccount
     {
         public string Number { get; }
         public string Owner { get; set; }
-        public decimal Balance { get; }
+        public decimal Balance { 
+            get
+            {
+                decimal balance = 0;
+                foreach (var item in allTransactions)
+                {
+                    //balance = balance + item.Amount;
+                    balance += item.Amount;
+                }
+                return balance;
+            }
+        }
+
+        private List<Transaction> allTransactions = new List<Transaction>();
+
+        private static int accountNumberSeed = 1234567890;
 
         //constructor
-        public BankAccount(string name, decimal initialBalance)
+        public BankAccount(string name)
         {
             this.Owner = name;
-            this.Balance = initialBalance;
+            this.Number = accountNumberSeed.ToString();
+            accountNumberSeed++;
         }
 
         public void MakeDeposit(decimal amount, DateTime date, string note)
