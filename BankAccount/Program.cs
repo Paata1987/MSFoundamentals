@@ -12,8 +12,12 @@ namespace BankAccount
         {
            
 
-            var account = new BankAccount("Sandra", 1000);
+            var account = new BankAccount("Sandra", 10000);
             Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} initial balance.");
+
+            account.MakeWithdrawal(120, DateTime.Now, "Harold");
+            Console.WriteLine(account.Balance);
+
         }
     }
 }
