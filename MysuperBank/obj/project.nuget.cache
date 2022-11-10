@@ -1,24 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rkrK6y9WIaqWrgml0VNf05t7RGtNOx9Y34kmkuB5xz9INbbQxmW4ZgfDk8pfe9yLlrPAJ6R2Euc37tZL8xhfEQ==",
+  "dgSpecHash": "OnrpHWv8LWtoAi4bhEKSwjLOIrdzYqjxhKqJhGwv//e3FLxG3f+vnSCNC9MSHWrKxuGeN2eDV65cw+5/vLjUJA==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\MSFoundamentals\\MysuperBank\\MysuperBank.csproj",
+  "projectFilePath": "C:\\Repository\\MSFoundamentals\\MSFoundamentals\\MysuperBank\\MysuperBank.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\glasspaper\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\servicestack.client\\6.4.0\\servicestack.client.6.4.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\servicestack.interfaces\\6.4.0\\servicestack.interfaces.6.4.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\servicestack.stripe\\6.4.0\\servicestack.stripe.6.4.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\servicestack.text\\6.4.0\\servicestack.text.6.4.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\glasspaper\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Paata\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
   ],
   "logs": []
 }

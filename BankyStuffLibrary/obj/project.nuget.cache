@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UWaky+Qke/UPrTQKUviKSNvCwiWu2LPilfQ/DoKi8RJlk2cq88SuxDNYVcvc7s5Bg9GJ+9r9EpkUTk/4BQsZhQ==",
+  "dgSpecHash": "Y34+QP7dcriVFHAIxPuHVudlOk6mMjPBF2iWGKtkrlP6MQsIdFBD5SyFiKj0mH5B8U1Mxc9U4hCj+wQ+mkzkmg==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\MSFoundamentals\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Repository\\MSFoundamentals\\MSFoundamentals\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paata\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
   "logs": []
 }

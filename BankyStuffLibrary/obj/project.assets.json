@@ -1,30 +1,65 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Humanizer.Core/2.14.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Humanizer.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Humanizer.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Humanizer.Core/2.14.1": {
+      "sha512": "lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
+      "type": "package",
+      "path": "humanizer.core/2.14.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "humanizer.core.2.14.1.nupkg.sha512",
+        "humanizer.core.nuspec",
+        "lib/net6.0/Humanizer.dll",
+        "lib/net6.0/Humanizer.xml",
+        "lib/netstandard1.0/Humanizer.dll",
+        "lib/netstandard1.0/Humanizer.xml",
+        "lib/netstandard2.0/Humanizer.dll",
+        "lib/netstandard2.0/Humanizer.xml",
+        "logo.png"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Humanizer.Core >= 2.14.1"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\glasspaper\\.nuget\\packages\\": {},
+    "C:\\Users\\Paata\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\MSFoundamentals\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+      "projectUniqueName": "C:\\Repository\\MSFoundamentals\\MSFoundamentals\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
       "projectName": "BankyStuffLibrary",
-      "projectPath": "C:\\Repository\\MSFoundamentals\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
-      "packagesPath": "C:\\Users\\glasspaper\\.nuget\\packages\\",
-      "outputPath": "C:\\Repository\\MSFoundamentals\\BankyStuffLibrary\\obj\\",
+      "projectPath": "C:\\Repository\\MSFoundamentals\\MSFoundamentals\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+      "packagesPath": "C:\\Users\\Paata\\.nuget\\packages\\",
+      "outputPath": "C:\\Repository\\MSFoundamentals\\MSFoundamentals\\BankyStuffLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\glasspaper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Paata\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,6 +86,12 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "Humanizer.Core": {
+            "target": "Package",
+            "version": "[2.14.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

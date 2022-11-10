@@ -10,3 +10,15 @@ C:\Repository\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\BankyStuffLibra
 C:\Repository\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\refint\BankyStuffLibrary.dll
 C:\Repository\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\BankyStuffLibrary.pdb
 C:\Repository\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\ref\BankyStuffLibrary.dll
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\bin\Debug\net7.0\BankyStuffLibrary.deps.json
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\bin\Debug\net7.0\BankyStuffLibrary.dll
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\bin\Debug\net7.0\BankyStuffLibrary.pdb
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\BankyStuffLibrary.csproj.AssemblyReference.cache
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\BankyStuffLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\BankyStuffLibrary.AssemblyInfoInputs.cache
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\BankyStuffLibrary.AssemblyInfo.cs
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\BankyStuffLibrary.dll
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\refint\BankyStuffLibrary.dll
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\BankyStuffLibrary.pdb
+C:\Repository\MSFoundamentals\MSFoundamentals\BankyStuffLibrary\obj\Debug\net7.0\ref\BankyStuffLibrary.dll
