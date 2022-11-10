@@ -1,0 +1,8 @@
+C:\Repository\MSFoundamentals\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Repository\MSFoundamentals\BankAccount\bin\Debug\BankAccount.exe
+C:\Repository\MSFoundamentals\BankAccount\bin\Debug\BankAccount.pdb
+C:\Repository\MSFoundamentals\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+C:\Repository\MSFoundamentals\BankAccount\obj\Debug\BankAccount.csproj.SuggestedBindingRedirects.cache
+C:\Repository\MSFoundamentals\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Repository\MSFoundamentals\BankAccount\obj\Debug\BankAccount.exe
+C:\Repository\MSFoundamentals\BankAccount\obj\Debug\BankAccount.pdb
