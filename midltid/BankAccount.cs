@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Collections.Generic;
 
-namespace BankAccount
+namespace BankyStuffLibrary
 {
     internal class BankAccount
     {
@@ -69,6 +67,21 @@ namespace BankAccount
             allTransactions.Add(withdrawal);
         }
 
-        
+         
+        public string GetAccountHistory()
+        {
+            var report = new StringBuilder();
+
+            //Header
+            report.AppendLine("Date\t\tAmount\t Note");
+            foreach (var item in allTransactions)
+            {
+                //rows
+                report.AppendLine($"{item.Date.ToShortDateString()}\t{item.Amount}\t{item.Notes}");
+            }
+            return report.ToString();
+        }
+
+
     }
 }
